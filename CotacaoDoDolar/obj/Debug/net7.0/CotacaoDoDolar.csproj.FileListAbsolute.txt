@@ -1,0 +1,14 @@
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\net7.0\CotacaoDoDolar.exe
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\net7.0\CotacaoDoDolar.deps.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\net7.0\CotacaoDoDolar.runtimeconfig.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\net7.0\CotacaoDoDolar.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\bin\Debug\net7.0\CotacaoDoDolar.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\CotacaoDoDolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\CotacaoDoDolar.AssemblyInfoInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\CotacaoDoDolar.AssemblyInfo.cs
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\CotacaoDoDolar.csproj.CoreCompileInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\CotacaoDoDolar.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\refint\CotacaoDoDolar.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\CotacaoDoDolar.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\CotacaoDoDolar.genruntimeconfig.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO4\FixacaoClasses\CotacaoDodolarExfinal\CotacaoDoDolar\CotacaoDoDolar\obj\Debug\net7.0\ref\CotacaoDoDolar.dll
