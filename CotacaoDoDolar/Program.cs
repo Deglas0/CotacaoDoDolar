@@ -12,16 +12,35 @@ namespace CotacaoDoDolar
             double cotacao = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             while (escolha == true)
             {
+                byte i = 0; 
                 Console.WriteLine("dirija quantos dolares ira comprar:");
                 double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 double resultado = ConversorDeMoeda.DolarParaReal(quantia, cotacao);
 
-                Console.WriteLine("Valor as SerializableAttribute pago em reais:\n" + resultado);
+                Console.WriteLine("Valor a ser pago em reais:\n" + resultado);
+                while (i == 0)
+                {
+                    Console.WriteLine("deseja operar novamente?\n" +
+                                      "[s]Sim / [n]Não");
+                    string desejo = Console.ReadLine();
 
-                Console.WriteLine("deseja operar novamente?\n" +
-                                  "[s]Sim / [n]Não");
-
+                    if (desejo == "s")
+                    {
+                        escolha = true;
+                        i++;
+                    }
+                    else if (desejo == "n")
+                    {
+                        escolha = false;
+                        i++;
+                    }
+                    else if (desejo != "s" & desejo != "n")
+                    {
+                        Console.WriteLine("opção invalida por favor repita");
+                        i = 0;
+                    }
+                }
             }
         }
     }
